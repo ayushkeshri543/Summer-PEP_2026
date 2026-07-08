@@ -1,9 +1,9 @@
  
- https://leetcode.com/problems/max-consecutive-ones/
+ //https://leetcode.com/problems/max-consecutive-ones/
  
  
  
- class Solution {
+/* class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
         int maxCount = 0;
@@ -21,4 +21,4 @@ public:
         return maxCount;
         
     }
-};
+};*/
